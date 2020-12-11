@@ -234,6 +234,17 @@ section {
     font-size: 17px;
 }
 /*REACH OUT STYLES*/
+.service-grid-container { /* <-- class that sets the grid container as parent element */
+    display: grid;
+}
+.service-grid-item { /* <-- class that sets the grid items/child elements */
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
 .contact {
     
     background: #024e76;
