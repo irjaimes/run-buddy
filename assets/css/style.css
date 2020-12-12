@@ -18,6 +18,7 @@ header {
     background-image: url("../images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
+    /* sticky attributes for header */
     position: -webkit-sticky;
     position: sticky;
     top: 0;
@@ -29,6 +30,7 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
+    /* text shadow with transparency */
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
    
 }
