@@ -314,7 +314,7 @@ section {
     overflow: hidden;
   }
   
-/* Final Animation START*/
+/* Trainer Card Animation START*/
 .trainer-img::after {
     content: "";
     height: 100%;
@@ -350,7 +350,8 @@ section {
 .trainer:hover .trainer-img h4 {
     top: 0px;
 }
-/* Final Animation END*/
+
+/* Trainer Card Animation END*/
 
 .trainer-1 {
     background-image: url("../images/trainer-1.jpg");
